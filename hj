@@ -1,0 +1,16 @@
+
+html
+<h1 class="title"> Mental Disorders</h1>
+<h1 id = "apple">  Depression</h1>
+<p>
+Depression is a very common mental illness in the US.                                                               It is different from feelings of sadness or grief because depression can last for months and/or years. However, grief such as the death of loved ones or a long term relationship is ended can lead to depression.
+https://www.nami.org/Learn-More/Mental-Health-Conditions/Depression
+
+
+css
+#apple{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color:  lightblue;
+  text-align: center;
+  font-size: 65px
+}
